@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+
+</head>
+<body>
+    <div class="container">
+        <h1><strong>TIMER</strong></h1>
+        <div class="controller">
+            <label for="timer">
+                <div class="clock">
+                    <p id="hours">00</p>
+                    <p id="ponto1">:</p>
+                    <p id="minutes">00</p>
+                    <p id="ponto2">:</p>
+                    <p id="seconds">00</p>
+                </div>
+                <button id="iniciar" class="timer" onclick="iniciar()">Inciar</button>
+                <button id="pausar" class="timer" onclick="pausar()">Pausar</button>
+                <button id="zerar" class="timer" onclick="zerar()">Zerar</button>
+            </label>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
