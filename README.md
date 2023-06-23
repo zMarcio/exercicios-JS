@@ -14,7 +14,7 @@ O repositório está organizado da seguinte forma (eu aviso no commit):
 
 ## Histórico de Commits
 
-- Commit CodeWars: são desafios como falado anteriormente que eu entro no site deles, faço o exercício proposto, resolvo e coloco aqui, posteriormente irei fazer um respositorio somente dele.
+- Commit CodeWars: são desafios como falado anteriormente que eu entro no site deles, seleciono um exercício, resolvo e coloco aqui, posteriormente irei fazer um respositorio somente dele.
 
 - Commits 1 a 11: Exercícios realizados em um curso de JavaScript. Esses commits marcam meu progresso inicial no aprendizado da linguagem.
 
